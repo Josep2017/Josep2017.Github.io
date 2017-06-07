@@ -5,10 +5,16 @@
 	
 }
 #boton{
-	border-color: red;
-	margin: 0.7px;
-	background-color: #yellew;
-	
+	background:#7f8c8d;
+	color:#fff;
+	display:inline-block;
+	font-size:1.25em;
+	margin:20px;
+	padding:10px 0;
+	text-align:center;
+	width:200px;
+	text-decoration:none;
+	box-shadow:0px 3px 0px #373c3c;
 }
 #secion1{
 
