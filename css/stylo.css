@@ -4,7 +4,7 @@
 	
 }
 #botones{
-	background-color: red;
+	background-color: #ffff80;
 }
 #derecha{
  margin: 0.7px;
@@ -14,11 +14,14 @@
  height: 300px;
 
 }
-#centro{
+#derecha{
 	border: 5px;
 	border-color: #80ffff;
 }
-#isquierda{
+#centro{
 	border: 5px;
 	border-color: #0080ff;
+}
+#isquierda{
+	border-color: #ff0000;
 }
