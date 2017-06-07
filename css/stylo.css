@@ -15,19 +15,19 @@
 
  margin: 0.7px;
  border-color: blue;
- width:75px;
+ width:100px;
  float:left;
- height: 300px;
+ height: 30px;
 
 }
 #seccion2{
 	border-color: #ff0000;
-	width: 75px;
-	height: 200px;
+	width: 100px;
+	height: 30px;
 }
 #seccion3{
 	border-color: #80ff00;
-	width: 75px;
-	height: 200px
+	width: 100px;
+	height: 30px
 	
 }
