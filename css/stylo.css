@@ -8,7 +8,8 @@
 	background-color: #ffff80;
 	border: 0.7px;
 }
-#boton{
+.boton{
+	border-radius:12px;
 	background:#008080;
 	color:#80ff00;
 	display:inline-block;
