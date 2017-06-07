@@ -4,13 +4,14 @@
 	
 }
 #botones{
-	border-color: #ff8040;
+	background-color: red;
 }
 #derecha{
-	 width: 160px; 
-    background-color: #999999; 
-    float:left; 
-	border: 5px;
+ margin: 0.7px;
+ border-color: blue;
+ width:75px;
+ float:left;
+ height: 300px;
 
 }
 #centro{
