@@ -22,8 +22,12 @@
 }
 #seccion2{
 	border-color: #ff0000;
+	width: 75px;
+	height: 200px;
 }
 #seccion3{
 	border-color: #80ff00;
+	width: 75px;
+	height: 200px
 	
 }
