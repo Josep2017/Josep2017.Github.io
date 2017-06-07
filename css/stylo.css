@@ -4,6 +4,10 @@
 	width: 100%; height: 100%
 	
 }
+#navboton{
+	background-color: #ffff80;
+	border: 0.7px;
+}
 #boton{
 	background:#7f8c8d;
 	color:#fff;
