@@ -11,7 +11,7 @@
 	
 	
 }
-#derecha{
+#secion1{
 	border:blue;
  margin: 0.7px;
  border-color: blue;
@@ -20,14 +20,11 @@
  height: 300px;
 
 }
-#derecha{
+#seccion2{
 	border: 5px;
 	border-color: #80ffff;
 }
-#centro{
+#seccion3{
 	border: 5px;
 	border-color: #0080ff;
-}
-#isquierda{
-	border-color: #ff0000;
 }
