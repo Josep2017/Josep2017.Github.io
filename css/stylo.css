@@ -7,8 +7,11 @@
 	border-color: #ff8040;
 }
 #derecha{
+	 width: 160px; 
+    background-color: #999999; 
+    float:left; 
 	border: 5px;
-	border-color: #80ff00;
+
 }
 #centro{
 	border: 5px;
