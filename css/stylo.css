@@ -4,9 +4,11 @@
 	
 }
 #botones{
-	background-color: #ffff80;
+	border: red;
+	
 }
 #derecha{
+	border:blue;
  margin: 0.7px;
  border-color: blue;
  width:75px;
