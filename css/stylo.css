@@ -29,20 +29,18 @@
 
 #div1{
 
- border-color: blue;
  width:100px;
- float:left;
- height: 40px;
+background: blue;
 
 }
 #div2{
-	border-color: #ff0000;
+	
 	width: 100px;
-	height: 30px;
+	background: #ffff80;
 }
 #div3{
-	border-color: #80ff00;
+	
 	width: 100px;
-	height: 30px
+	background: #80ff80;
 	
 }
