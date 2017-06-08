@@ -28,42 +28,28 @@
   border-radius: 15px;
   box-shadow: 0 9px #999;
 }
-#cuerpo
-        {
-        padding: 2px;
-        margin: 1px;
+#cuerpo {
         width: 100%;
         height: 100%;
         position: relative;
-    }
-    
-    #izquierda
-        {
-        padding: 2px;
-        margin: 1px;
+}
+#izquierda {
         width: 291px;
         height: 100%;
         background-color: #d0cece;
         float: left;
-    }
-#centro
-        {
-        padding: 2px;
-        margin: 1px;
-        width: 100px;
+}
+#centro {
+        width: auto;
         height: 100%;
-        background-color: #ffffff;             
-    }
-#derecha
-        {
-        padding: 2px;
-        margin: 1px;
+        background-color: #ffffff; 
+        float: left;
+}
+#derecha {
         width: 230px;
         height: 100%;
         background-color: #d0cece;             
         float: right;
     }
-    
-    
     
 
