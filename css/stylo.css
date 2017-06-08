@@ -10,8 +10,12 @@
 	background-color: #d7dffb;
 	padding: 0px;
 }
-#div{
+#div1{
 	background-color: #ffdbca;
+	margin: 3px;
+}
+#div2{
+	background-color: #b9ffb9;
 	margin: 3px;
 }
 #tur0 {
