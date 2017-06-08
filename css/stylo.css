@@ -55,7 +55,7 @@ padding:0px;
 	height: 80px;
 	
 }
-#button{
+.button{
   text-align:center;
   display: inline-block;
   padding: 15px 25px;
@@ -120,7 +120,7 @@ float:left;
     }
     #otusco{
       width: 100%;
-  height: 100px;
+     height: 100px;
     }
     #h1{
     color:blue;
