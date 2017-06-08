@@ -73,7 +73,7 @@ padding:0px;
 .izquierda{
 margin:5px;
 margin-top:10px;  
-padinng:2px;
+padinng:4px;
 width: 400px;
 height:400px;
 float:left;
@@ -85,7 +85,7 @@ float:left;
 .centro{
 margin:5px;
 margin-top:10px;
-padinng:2px;
+padinng:4px;
 width: 400px;
 height: 400px; 
 float:left;
@@ -100,7 +100,7 @@ height: 400px;
 .derecha{
 margin:5px;
 margin-top:10px; 
-padinng:2px;       
+padinng:4px;       
 width: 400px;
 height: 400px;
 float:left;
@@ -111,15 +111,15 @@ float:left;
     height: 400px;
     }
    #polonia {
-   width: 100%;
+   width: 100px;
   height: 100px;
     }
     #baños{
-  width: 100%;
+  width: 100px;
   height: 100px;
     }
     #otusco{
-      width: 100%;
+      width: 100px;
      height: 100px;
     }
     #h1{
