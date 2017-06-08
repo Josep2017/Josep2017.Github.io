@@ -73,7 +73,6 @@ padding:0px;
 .izquierda{
 margin:10px;
 margin-top:10px;  
-padinng:4px;
 width: 400px;
 height:400px;
 float:left;
@@ -85,7 +84,6 @@ float:left;
 .centro{
 margin:10px;
 margin-top:10px;
-padinng:4px;
 width: 400px;
 height: 400px; 
 float:left;
@@ -99,8 +97,7 @@ height: 400px;
     
 .derecha{
 margin:10px;
-margin-top:10px; 
-padinng:4px;       
+margin-top:10px;       
 width: 400px;
 height: 400px;
 float:left;
