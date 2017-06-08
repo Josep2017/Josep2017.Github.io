@@ -38,7 +38,7 @@
         {
         padding: 0px;
         margin: 1px;
-        width: 291px;
+        width: 291%;
         height: 100%;
         background-color: #d0cece;
         float: left;
@@ -55,7 +55,7 @@
         {
         padding: 1px;
         margin: 1px;
-        width: 230px;
+        width: 230%;
         height: 100%;
         background-color: #d0cece;             
         float: right;
