@@ -49,27 +49,22 @@
 }
 #izquierda
         {
-        padding: 2px;
-        margin: 2px;
-        width: 100px;
-        height: 100px;
-        background-color: #d0cece;
-        float: left;
+        width: 724px;
+height: 100px;
+border: 1px solid black;
+background: white;
     }
 #centro
         {
-        padding: 2px;
-        margin: 2px;
-        width: 100px;
-        height: 100px;
-        background-color: #ffffff;             
+    width: 432px;
+height: 300px;
+border: 1px solid #0C2D83;
+background-color: White           
     }
 #derecha
         {
-        padding: 2px;
-        margin: 2px;
-        width: 100px;
-        height: 100px;
-        background-color: #d0cece;             
-        float: right;
+      width: 144px;
+height: 300px;
+border: 1px solid #0C2D83;
+background-color: #CED3E5;
     }
