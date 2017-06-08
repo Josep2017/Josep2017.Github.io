@@ -43,11 +43,11 @@
   box-shadow: 0 9px #999;
 }
 
-#cuerpo {
+#container {
        
 width: 724px;
 height: 100px;
-border: 1px solid black;
+border: 2px solid black;
 background: white;
 }
 #izquierda{
