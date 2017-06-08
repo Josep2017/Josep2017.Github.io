@@ -80,7 +80,10 @@ border: 1px solid black;
 margin-left:50px;
 float:left;
     }
-   
+   #izquierda img{
+   width: 400px;
+height:400px;
+   }
 #centro{
  margin:2px;
 margin-top:10px;
@@ -93,6 +96,10 @@ float:left;
 
    
     }
+    #centro img{
+    width: 400px;
+height: 400px;
+    }
 #derecha{
 margin:2px;
 margin-top:10px; 
@@ -103,6 +110,10 @@ border: 1px solid #0C2D83;
 background-color: #CED3E5;
 float:left;
 
+    }
+    #derecha img{
+    width: 400px;
+    height: 400px;
     }
    #polonia {
    width: 100%;
