@@ -57,7 +57,7 @@ background: white;
 }
 #izquierda{
         
-width: 500px;
+width: 400px;
 height:400px;
 border: 1px solid black;
 margin-left:50px;
@@ -66,7 +66,7 @@ float:left;
    
 #centro{
 
-width: 500px;
+width: 400px;
 height: 400px;
 border: 1px solid #0C2D83;
 background-color: White;   
@@ -76,10 +76,10 @@ float:left;
     }
 #derecha{
         
-width: 500px;
+width: 400px;
 height: 400px;
 border: 1px solid #0C2D83;
 background-color: #CED3E5;
 float:left;
-float:
+
     }
