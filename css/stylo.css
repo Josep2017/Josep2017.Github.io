@@ -45,14 +45,14 @@
 
 #container {
        
-width: 100%;
+width: 400;
 height: 100px;
 border: 2px solid black;
 background: white;
 }
 #izquierda{
         
-width: 432px;
+width: 400px;
 height: 300px;
 border: 1px solid black;
 float: left;
@@ -61,7 +61,7 @@ background:blue;
     
 
 #centro{
-width: 433px;
+width: 400px;
 height: 300px;
 border: 1px solid #0C2D83;
 background-color: White;   
