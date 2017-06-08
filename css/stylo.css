@@ -1,8 +1,12 @@
 @CHARSET "UTF-8";
 
-
+*{
+margin:opx;
+padding:0px;
+}
 
 #body{
+	margin:0px;
 	background-color: #d7dffb;
 	padding: 0px;
 }
@@ -52,32 +56,33 @@ background: white;
 }
 #izquierda{
         
-width: 400px;
+width: 300px;
 height: 300px;
 border: 1px solid black;
 margin-left:50px;
 position:absolute;
-left:50%;
+float:left;
+
 
     }
     
 
 #centro{
-width: 400px;
+width: 300px;
 height: 300px;
 border: 1px solid #0C2D83;
 background-color: White;   
-left: 50%;
+float:left;
 position: absolut
    
     }
 #derecha{
         
-width: 432px;
+width: 300px;
 height: 300px;
 border: 1px solid #0C2D83;
 background-color: #CED3E5;
-float: right;
+float:left;
 position: absolute;
 
     }
