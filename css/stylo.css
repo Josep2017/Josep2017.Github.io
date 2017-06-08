@@ -47,8 +47,8 @@ padding:0px;
   box-shadow: 0 9px #999;
 }
 #izquierda{
-margin:auto;
-margin-top:20px;  
+margin:2px;
+margin-top:10px;  
 padinng:2px;
 width: 400px;
 height:400px;
@@ -58,8 +58,8 @@ float:left;
     }
    
 #centro{
- margin:auto;
-margin-top:20px;
+ margin:2px;
+margin-top:10px;
 padinng:2px;
 width: 400px;
 height: 400px;
@@ -70,7 +70,7 @@ float:left;
    
     }
 #derecha{
-margin:auto;
+margin:2px;
 margin-top:20px; 
 padinng:2px;       
 width: 400px;
