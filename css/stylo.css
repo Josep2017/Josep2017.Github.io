@@ -47,8 +47,9 @@ padding:0px;
   box-shadow: 0 9px #999;
 }
 
-#container {
-       
+#cuerpo {
+ margin:auto;
+margin-top:20px;
 width: 960px;
 height: 600px;
 border: 2px solid black;
@@ -64,8 +65,7 @@ float:left;
     }
    
 #centro{
-margin:auto;
-margin-top:20px;
+
 width: 500px;
 height: 400px;
 border: 1px solid #0C2D83;
