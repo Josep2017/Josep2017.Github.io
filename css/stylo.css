@@ -11,6 +11,7 @@
 	position:absoilute;top:2; left:2;right:2
 }
 #boton{
+	padding:3px;
   text-align:center;
   display: inline-block;
   padding: 15px 25px;
