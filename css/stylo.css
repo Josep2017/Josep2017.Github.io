@@ -39,26 +39,26 @@
     
     #izquierda
         {
-        padding: 0px;
+        padding: 2px;
         margin: 1px;
-        width: 291%;
+        width: 291px;
         height: 100%;
         background-color: #d0cece;
         float: left;
     }
 #centro
         {
-        padding: 1px;
+        padding: 2px;
         margin: 1px;
-        width: 100%;
+        width: 100px;
         height: 100%;
         background-color: #ffffff;             
     }
 #derecha
         {
-        padding: 1px;
+        padding: 2px;
         margin: 1px;
-        width: 230%;
+        width: 230px;
         height: 100%;
         background-color: #d0cece;             
         float: right;
