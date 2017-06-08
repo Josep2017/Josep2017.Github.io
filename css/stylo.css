@@ -53,7 +53,7 @@ background: white;
 #izquierda{
         
  idth: 432px;
-height: 100px;
+height: 300px;
 border: 1px solid black;
 background: white;
     }
@@ -67,7 +67,7 @@ background-color: White
     }
 #derecha{
         
-      width: 432px;
+width: 432px;
 height: 300px;
 border: 1px solid #0C2D83;
 background-color: #CED3E5;
