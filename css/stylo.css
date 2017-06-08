@@ -65,7 +65,7 @@ width: 400px;
 height: 300px;
 border: 1px solid #0C2D83;
 background-color: White;   
- float: right;
+float:inherit;
  background:red     
     }
 #derecha{
@@ -74,4 +74,5 @@ width: 432px;
 height: 300px;
 border: 1px solid #0C2D83;
 background-color: #CED3E5;
+float: right;
     }
