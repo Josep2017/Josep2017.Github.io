@@ -55,7 +55,8 @@ background: white;
 width: 432px;
 height: 300px;
 border: 1px solid black;
-background: white;
+float: left;
+background:blue;
     }
     
 
@@ -63,7 +64,9 @@ background: white;
 width: 433px;
 height: 300px;
 border: 1px solid #0C2D83;
-background-color: White           
+background-color: White;   
+ float: right;
+ background:red     
     }
 #derecha{
         
