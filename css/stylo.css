@@ -9,17 +9,18 @@
 	border: 0.7px;
 }
 .boton{
-	border-radius:12px;
-	background:#008080;
-	color:#80ff00;
-	display:inline-block;
-	font-size:1.25em;
-	margin:20px;
-	padding:10px 0;
-	text-align:center;
-	width:200px;
-	text-decoration:none;
-	box-shadow:0px 3px 0px #373c3c;
+  display: inline-block;
+  padding: 15px 25px;
+  font-size: 24px;
+  cursor: pointer;
+  text-align: center;
+  text-decoration: none;
+  outline: none;
+  color: #fff;
+  background-color: #4CAF50;
+  border: none;
+  border-radius: 15px;
+  box-shadow: 0 9px #999;
 }
 #secion1{
 
