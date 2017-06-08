@@ -18,7 +18,31 @@ padding:0px;
 	position:absoilute;
 }
 
-
+#social{
+	positio:fixed;
+	left:0;
+	top:200px;
+	z-index:2000;
+}
+#social ul{
+	list-style:none;
+}
+#social ul li a{
+	display:inline-black;
+	color:#fff;
+	background: #000;
+	padding:10px 15px;
+	text-decoration:none;
+}
+#social ul li.icon.facebook{
+	background: #ffff80;	
+}
+#social ul li.icon.twitter{
+	background: #80ff80	
+}
+#social ul li.icon.googleplus{
+	background: #000	
+}
 #navboton{
 	
 	padding:3px;
